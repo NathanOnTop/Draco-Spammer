@@ -7,4 +7,8 @@
 Download Python 3.9.5
 <a href="https://www.python.org/downloads/release/python-395/">Download Here</a>
 
-Simple Webhook Spammer to spam webhooks! :)
+```pip install -r requirements.txt```
+
+This Tool is used for spamming discord webhooks! 
+
+# Enjoy and Thanks for using my tool :)
