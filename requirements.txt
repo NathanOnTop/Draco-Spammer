@@ -1,0 +1,8 @@
+pip install turtle 
+pip install clear 
+pip install time
+pip install os 
+pip install requests
+pip install pystyle
+pip install dhooks
+pip install Discord
